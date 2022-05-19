@@ -2,7 +2,7 @@
 	👩‍🎓🏆Computer Science 
 		👩‍💻Software Developer|Django|React
 			🔭Currently working on django/react projects
-			🌱Exploring open source 
+				🌱Exploring open source 
 	
 
 
