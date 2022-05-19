@@ -1,8 +1,8 @@
 ### Hi there 👋
-	:woman_student: :trophy: Computer Science 
-			:woman_technologist: Software Developer|Django|React
-				🔭 Currently working on django/react projects
-					🌱 And exploring open source 
+	👩‍🎓🏆Computer Science 
+		👩‍💻Software Developer|Django|React
+			🔭Currently working on django/react projects
+			🌱Exploring open source 
 	
 
 
