@@ -46,17 +46,15 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+![Rose Mutai's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemutai&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rose Mutai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Document Object Model &lpar;DOM&rpar;](https://mutairose.hashnode.dev/the-document-object-model-dom)
-- [Introduction to Express js](https://mutairose.hashnode.dev/introduction-to-express-js)
-- [Data Structure and Algorithms 102: Deep Dive into Data Structure and Algorithms](https://mutairose.hashnode.dev/data-structure-and-algorithms-102-deep-dive-into-data-structure-and-algorithms)
-- [Introduction to Data Structures and Algorithms.](https://mutairose.hashnode.dev/introduction-to-data-structures-and-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 
