@@ -1,23 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
-  
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/rosemutai/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/__chepngetich">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+<div id="header">  
+ 
   <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    Hello
+    <img src="https://media.giphy.com/media/G3Eoq3rxJQlR0AFdKu/giphy.gif" width="40px"/>
   </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+<div>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" align="right" border-radius="50%" width="100" height="100"/>
 </div>
 
 ### :woman_technologist: About Me :
@@ -30,7 +20,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :cook: I also enjoy cooking.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosemutai/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosemutai/)  [![Twitter Badge](https://img.shields.io/badge/-TWITTER-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/__chepngetich/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://www.gmail.com/chepngetichrose2030@gmail.com/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -46,7 +36,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats :
-![Rose Mutai's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemutai&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
