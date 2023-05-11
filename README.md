@@ -46,10 +46,10 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [My journey into software development](https://mutairose.hashnode.dev/my-journey-into-software-development)
 - [Understanding CSS Grid](https://mutairose.hashnode.dev/understanding-css-grid)
 - [The Document Object Model &lpar;DOM&rpar;](https://mutairose.hashnode.dev/the-document-object-model-dom)
 - [Introduction to Express js](https://mutairose.hashnode.dev/introduction-to-express-js)
-- [Data Structure and Algorithms 102: Deep Dive into Data Structure and Algorithms](https://mutairose.hashnode.dev/data-structure-and-algorithms-102-deep-dive-into-data-structure-and-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 
