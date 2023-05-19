@@ -42,6 +42,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Rose Mutai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
  </p>
 ### :writing_hand: Blog Posts :
