@@ -41,6 +41,15 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
  <!--START_SECTION:waka-->
+
+```text
+JavaScript   22 hrs 58 mins  >>>>>>>>>>>>>>>>>>-------   73.09 %
+CSS          5 hrs 1 min     >>>>---------------------   15.99 %
+HTML         59 mins         >------------------------   03.16 %
+JSON         55 mins         >------------------------   02.94 %
+Markdown     44 mins         >------------------------   02.34 %
+```
+
 <!--END_SECTION:waka-->
 
  
