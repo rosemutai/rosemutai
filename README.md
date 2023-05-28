@@ -43,11 +43,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```text
-JavaScript   24 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>>>--   91.42 %
-CSS          1 hr 1 min      >------------------------   03.83 %
-Markdown     55 mins         >------------------------   03.47 %
-JSON         9 mins          -------------------------   00.56 %
-YAML         5 mins          -------------------------   00.32 %
+JavaScript   21 hrs 27 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.64 %
+CSS          1 hr 1 min      >------------------------   04.30 %
+Markdown     55 mins         >------------------------   03.92 %
+JSON         8 mins          -------------------------   00.63 %
+Other        3 mins          -------------------------   00.25 %
 ```
 
 <!--END_SECTION:waka-->
