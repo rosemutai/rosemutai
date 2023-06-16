@@ -43,11 +43,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-SQL          2 hrs 3 mins    >>>>>>>>>----------------   34.69 %
-Ruby         1 hr 32 mins    >>>>>>>------------------   26.09 %
-TypeScript   43 mins         >>>----------------------   12.30 %
-JavaScript   37 mins         >>>----------------------   10.58 %
-Markdown     27 mins         >>-----------------------   07.64 %
+Ruby         4 hrs 24 mins   >>>>>>>>>>>>-------------   48.19 %
+SQL          2 hrs 3 mins    >>>>>>-------------------   22.46 %
+TypeScript   43 mins         >>-----------------------   07.96 %
+JavaScript   42 mins         >>-----------------------   07.71 %
+Markdown     39 mins         >>-----------------------   07.14 %
 ```
 
 <!--END_SECTION:waka-->
