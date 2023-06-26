@@ -12,13 +12,10 @@
 
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-- :telescope: Currently I am studying to be a fullstack developer at Microverse.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :book: In my free time, I read tech articles.
 
-- :cook: I also enjoy cooking.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosemutai/)  [![Twitter Badge](https://img.shields.io/badge/-TWITTER-blue?style=flat&logo=Twitter&logoColor=white)](https://www.twitter.com/__chepngetich/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](https://www.gmail.com/chepngetichrose2030@gmail.com/)
 
