@@ -40,7 +40,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash   5 mins          >>>>>>>>>>>>>>>>>>>>>>>>>   98.61 %
+CSS    0 secs          -------------------------   01.39 %
 ```
 
 <!--END_SECTION:waka-->
