@@ -40,8 +40,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   13 hrs 49 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   97.74 %
-TypeScript   19 mins         >------------------------   02.26 %
+JavaScript   14 hrs 15 mins  >>>>>>>>>>>>>>>>>>>>-----   81.45 %
+HTML         2 hrs 25 mins   >>>----------------------   13.82 %
+CSS          19 mins         -------------------------   01.83 %
+TypeScript   19 mins         -------------------------   01.82 %
+JSON         11 mins         -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->
