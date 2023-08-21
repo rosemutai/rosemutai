@@ -53,10 +53,10 @@ Git Config   2 mins          -------------------------   00.10 %
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Map](https://mutairose.hashnode.dev/javascript-map)
 - [React Hooks](https://mutairose.hashnode.dev/react-hooks)
 - [My journey into software development](https://mutairose.hashnode.dev/my-journey-into-software-development)
 - [Understanding CSS Grid](https://mutairose.hashnode.dev/understanding-css-grid)
-- [The Document Object Model &lpar;DOM&rpar;](https://mutairose.hashnode.dev/the-document-object-model-dom)
 <!-- BLOG-POST-LIST:END -->
 
 
