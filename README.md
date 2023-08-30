@@ -40,11 +40,11 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   19 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.93 %
-Markdown     19 mins         -------------------------   01.57 %
-Ezhil        12 mins         -------------------------   00.98 %
-CSS          9 mins          -------------------------   00.80 %
-Other        9 mins          -------------------------   00.79 %
+JavaScript   17 hrs 7 mins   >>>>>>>>>>>>>>>>>>>>>>>>-   94.23 %
+Markdown     19 mins         -------------------------   01.83 %
+Ezhil        12 mins         -------------------------   01.10 %
+CSS          9 mins          -------------------------   00.89 %
+Other        9 mins          -------------------------   00.89 %
 ```
 
 <!--END_SECTION:waka-->
