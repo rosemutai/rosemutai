@@ -40,9 +40,9 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-Python   47 mins         >>>>>>>>>>>>>------------   50.15 %
-CSS      23 mins         >>>>>>-------------------   24.93 %
-HTML     23 mins         >>>>>>-------------------   24.91 %
+CSS      23 mins         >>>>>>>>>>>>>>>----------   60.69 %
+Python   10 mins         >>>>>>>------------------   27.59 %
+HTML     4 mins          >>>----------------------   11.72 %
 ```
 
 <!--END_SECTION:waka-->
