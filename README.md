@@ -40,7 +40,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>-   96.47 %
+Other    0 secs          >------------------------   03.53 %
 ```
 
 <!--END_SECTION:waka-->
