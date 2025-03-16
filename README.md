@@ -11,7 +11,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 - :seedling: Exploring Technical Content Writing.
 
@@ -33,20 +33,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosemutai&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
- <!--START_SECTION:waka-->
-
-```txt
-Python       4 hrs 16 mins   >>>>>>>>>>>>>>>>>>>>-----   79.23 %
-JavaScript   44 mins         >>>----------------------   13.76 %
-Text         14 mins         >------------------------   04.39 %
-JSON         3 mins          -------------------------   01.21 %
-Bash         3 mins          -------------------------   01.16 %
-```
-
-<!--END_SECTION:waka-->
-
 
