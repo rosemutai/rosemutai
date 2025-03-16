@@ -49,14 +49,4 @@ Bash         3 mins          -------------------------   01.16 %
 
 <!--END_SECTION:waka-->
 
- 
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [JavaScript Map](https://mutairose.hashnode.dev/javascript-map)
-- [React Hooks](https://mutairose.hashnode.dev/react-hooks)
-- [My journey into software development](https://mutairose.hashnode.dev/my-journey-into-software-development)
-- [Understanding CSS Grid](https://mutairose.hashnode.dev/understanding-css-grid)
-<!-- BLOG-POST-LIST:END -->
-
 
