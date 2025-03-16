@@ -1,7 +1,7 @@
 <div id="header">  
  
   <h1>
-    Hello
+    Software Developer
     <img src="https://media.giphy.com/media/G3Eoq3rxJQlR0AFdKu/giphy.gif" width="40px"/>
   </h1>
 </div>
@@ -9,11 +9,6 @@
 <div>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" align="right" border-radius="50%" width="100" height="100"/>
 </div>
-
-### :woman_technologist: About Me :
-Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-
-- :seedling: Exploring Technical Content Writing.
 
 
 
@@ -30,7 +25,7 @@ Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
+  
 </div>
 
 
